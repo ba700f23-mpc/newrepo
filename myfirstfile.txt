@@ -1,3 +1,5 @@
 Adding a line to the file.
 
-Adding a new line that would create a new report. 
+Changing the second line that created a new report. 
+
+Adding a third feature.	
